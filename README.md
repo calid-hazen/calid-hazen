@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @calid-hazen
-- 👀 I’m interested in AI and Computer Science
+- 👋 Hi, I’m @calid-pyhonista
+- 👀 I’m interested in Programming, AI and Computer Science
 - 🌱 I’m currently learning Python 
 
 
